@@ -1,3 +1,4 @@
 we are learning git
 hello
 we are leaning stages of git
+we are learning git reset
