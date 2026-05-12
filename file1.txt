@@ -6,3 +6,4 @@ git pull
 git fetch
 this is feature branch line
 learning git branch
+git merge conflict
