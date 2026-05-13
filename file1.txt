@@ -1,4 +1,4 @@
-we are learning git conflict
+testing git merge conflict in feature
 hello good morning
 line 3
 we are leaning stages of git
