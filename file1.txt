@@ -9,4 +9,7 @@ we are in feature branch
 feature branch
 we are learning git stash
 next line number 2
-
+this is feature branch line
+learning git branch
+testing merge conflict 
+git cherry-pick command
