@@ -11,3 +11,4 @@ feature branch
 this is feature branch line
 learning git branch
 testing merge conflict
+we are learning git stash
